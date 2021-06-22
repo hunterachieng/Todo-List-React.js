@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: wheat;
+}
+
+.strike{
+  text-decoration: line-through;
+  color:chocolate;
+  
+}
+.todo{
+  cursor: pointer;
+}
+.delete{
+  padding: 5px;
+  border-radius: 5px;
+  background-color: transparent;
+  border-color: tomato;
+}
+.submit{
+  padding: 5px;
+  border-radius: 5px;
+  background-color: transparent;
+  border-color: tomato;
+}

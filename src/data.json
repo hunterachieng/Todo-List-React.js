@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "task": "Learn data structures",
+        "complete": true
+    },
+    {
+        "id": 2,
+        "task": "Learn React.JS",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "task": "Make my hair",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Understand Chinese",
+        "complete": true
+    },
+    {
+        "id": 5,
+        "task": "Cut my nails",
+        "complete": false
+    },
+    {
+        "id": 6,
+        "task": "Learn new things everyday",
+        "complete": false
+    },
+    {
+        "id": 7,
+        "task": "Find new friends",
+        "complete": true
+    },
+    {
+        "id": 8,
+        "task": "Feed the dog",
+        "complete": false
+    },
+    {
+        "id": 9,
+        "task": "Watch a documentary",
+        "complete": true
+    },
+    {
+        "id": 10,
+        "task": "Speak Korean",
+        "complete": false
+    },
+    {
+        "id": 11,
+        "task": "Learn data structures",
+        "complete": true
+    },
+    {
+        "id": 12,
+        "task": "Drink water",
+        "complete": true
+    },
+    {
+        "id": 13,
+        "task": "Complete PD assignment",
+        "complete": false
+    },
+    {
+        "id": 14,
+        "task": "Complete German classes",
+        "complete": false
+    },
+    {
+        "id": 15,
+        "task": "Wash shoes",
+        "complete": false
+    },
+    {
+        "id": 16,
+        "task": "Grow plants",
+        "complete": false
+    },
+    {
+        "id": 17,
+        "task": "Sleep well",
+        "complete": true
+    },
+    {
+        "id": 18,
+        "task": "Learn Spanish",
+        "complete": false
+    },
+    {
+        "id": 19,
+        "task": "Learn Thai",
+        "complete": false
+    },
+    {
+        "id": 20,
+        "task": "Go to church",
+        "complete": false
+    }
+]
