@@ -26,7 +26,7 @@ function App() {
     setToDoList(copyTask);
   }
   return (
-    <div className="App">
+    <div className="app">
    <Header />
    <ToDoList toDoList ={toDoList} handleToggle ={handleToggle} handleFilter ={handleFilter}/><br />
    <ToDoForm addTask ={addTask} />

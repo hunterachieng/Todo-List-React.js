@@ -13,7 +13,8 @@ export default function ToDoForm ({addTask}){
     return(
         <div>
             <form>
-                <input type = "text" value = {userInput} placeholder = "Enter tasks ..." onChange = {handleChange}/>
+                <input className = "input" type = "text" value = {userInput} placeholder = "Enter tasks ..." onChange = {handleChange}/>
+                <br/><br/>
                 <button onClick = {handleSubmit}className = "submit">Submit</button>
             </form>
         </div>
